@@ -1,4 +1,4 @@
-# Project: Can you recognize the emotion from an image of a face?
+# Project: VAE for downstream classification
 
 
 ### Figs folder
