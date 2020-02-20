@@ -1,4 +1,4 @@
-# Project: Can you recognize the emotion from an image of a face?
+# Project: Auto Variational Encoder for downsteams classification
 
 ### Data folder
 
