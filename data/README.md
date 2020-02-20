@@ -1,4 +1,4 @@
-# Project: Auto Variational Encoder for downsteams classification
+# Project: VAE for downsteams classification
 
 ### Data folder
 
