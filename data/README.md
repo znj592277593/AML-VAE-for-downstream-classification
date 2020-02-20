@@ -1,4 +1,4 @@
-# Project: VAE for downsteams classification
+# Project: VAE for Downsteam Classification
 
 ### Data folder
 
